@@ -1,0 +1,8 @@
+Nome: Andre Markov
+CPF: 111.444.777-35
+Matricula:  1715040792
+--------------------
+2017/1-1 ESTBAS002 "Calculo 1" ENG01_T01 6,00 7.00 APROVADO
+2017/2-2 ESTBAS012 "Probabilidade e Estatistica" ENG02_T05 4,00 10.00 APROVADO
+2018/1-1 ESTCMP029 "Matematica Discreta" ECP03_T01 4,00 8.00 REPROVADO
+2018/2-2 ESTBAS049 "Calculo numerico" ECP04_T01 4,00 9.00 APROVADO
